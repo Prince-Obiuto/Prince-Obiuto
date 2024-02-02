@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prince-Obiuto
-- 👀 I’m interested in mobile dev
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in back-end and mobile dev
+- 🌱 I’m currently learning java and expanding my skills
+- 💞️ I’m looking to collaborate on open source Java projects
 - 📫 How to reach me @obiutoprince@gmail.com 
 
 <!---
