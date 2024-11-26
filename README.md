@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @Prince-Obiuto
-- 👀 I’m interested in back-end and mobile dev
-- 🌱 I’m currently learning java and expanding my skills
-- 💞️ I’m looking to collaborate on open source Java projects
-- 📫 How to reach me @obiutoprince@gmail.com 
+# 👋 Hi, I’m @Prince-Obiuto 
+
+- 👀 **I’m interested in:** Backend development and mobile app development.  
+- 🌱 **I’m currently learning:** Advanced Java concepts and enhancing my skills with Flutter.  
+- 💞️ **I’m looking to collaborate on:** Open-source projects, especially those involving Java or Flutter.  
+- 📫 **How to reach me:** [obiutoprince@gmail.com](mailto:obiutoprince@gmail.com)  
+
+Feel free to explore my repositories and connect for meaningful collaborations!  
 
 <!---
 Prince-Obiuto/Prince-Obiuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
