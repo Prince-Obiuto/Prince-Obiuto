@@ -2,13 +2,13 @@
 
 ## About Me  
 - 👀 **Interests:** Backend development, mobile app development, and efficient software solutions.  
-- 🌱 **Currently learning:** Advanced Java techniques, Flutter for cross-platform mobile apps, and scalable system designs.  
+- 🌱 **Currently learning:** Advanced Java techniques, Flutter for cross-platform mobile apps, and scalable system designs, Vaadin for scalable and efficient web apps and springboot for efficient backend service and scalable APIs.  
 - 💞️ **Open to collaborate on:** Open-source projects or any impactful software development opportunities.  
 
 ## Skills  
 - **Languages:** Java, Dart, SQL, HTML  
-- **Frameworks & Tools:** Flutter, Jakarta Mail, NanoHTTPD, Tailwind CSS  
-- **Databases:** MySQL, Google Cloud Firestore  
+- **Frameworks & Tools:** Flutter, Springboot, Tailwind CSS, Vaadin 
+- **Databases:** MySQL, Google Cloud Firestore, Firebase  
 - **Other:** API development, web app integration  
 
 <!---## Notable Projects  
@@ -19,9 +19,4 @@
 - 📫 Email: [obiutoprince@gmail.com](mailto:obiutoprince@gmail.com)  
 - 💼 LinkedIn: [linkedin @prince-amam](https://linkedin.com/in/prince-amam)  
 - 🐦 X: [@princeobide](https://x.com/princeobide)  
-<!--- 🌐 Portfolio: [Your Portfolio Link](#)  --->
 
-<!---
-Prince-Obiuto/Prince-Obiuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
